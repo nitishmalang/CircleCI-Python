@@ -5,7 +5,7 @@
 python main.py
 ```
 
-### Test the code
+### Test the code-
 ```
 python tests.py
 ```
