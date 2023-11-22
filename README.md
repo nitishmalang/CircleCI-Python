@@ -1,4 +1,4 @@
-## Python - Circle
+## Python - CircleCI
 
 ### Run the code-
 ```
