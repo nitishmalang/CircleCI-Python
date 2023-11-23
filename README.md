@@ -1,6 +1,6 @@
 ## Python - CircleCI
 
-### Run the code-
+### Run the code
 ```
 python main.py
 ```
